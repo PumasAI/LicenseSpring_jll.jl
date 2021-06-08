@@ -1,0 +1,16 @@
+[[LicenseSpring]]
+arch = "i686"
+git-tree-sha1 = "53956a9175957dffa093f8d55d5de8eff9a73c3c"
+os = "windows"
+
+    [[LicenseSpring.download]]
+    sha256 = "f587af6242bef6468648e8546c96f142ebc20611599cf6a975052e9253120c26"
+    url = "https://github.com/juliacomputing/LicenseSpring_jll.jl/releases/download/LicenseSpring-v7.4.0+0/LicenseSpring.v7.4.0.i686-w64-mingw32.tar.gz"
+[[LicenseSpring]]
+arch = "x86_64"
+git-tree-sha1 = "eec8df67e27ff3f24e3ff32f8e83ff61a105dae9"
+os = "windows"
+
+    [[LicenseSpring.download]]
+    sha256 = "c10151612161ff8a854e7c3be9ea04f3b96458483562179eaca5865475e93554"
+    url = "https://github.com/juliacomputing/LicenseSpring_jll.jl/releases/download/LicenseSpring-v7.4.0+0/LicenseSpring.v7.4.0.x86_64-w64-mingw32.tar.gz"
