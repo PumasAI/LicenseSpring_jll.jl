@@ -15,6 +15,7 @@ The tarballs for `LicenseSpring_jll.jl` have been built from these sources:
 `LicenseSpring_jll.jl` is available for the following platforms:
 
 * `Windows i686` (`i686-w64-mingw32`)
+* `macOS x86_64` (`x86_64-apple-darwin`)
 * `Windows x86_64` (`x86_64-w64-mingw32`)
 
 ## Dependencies
