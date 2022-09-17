@@ -17,6 +17,7 @@ The tarballs for `LicenseSpring_jll.jl` have been built from these sources:
 * `macOS aarch64` (`aarch64-apple-darwin`)
 * `Windows i686` (`i686-w64-mingw32`)
 * `macOS x86_64` (`x86_64-apple-darwin`)
+* `Linux x86_64 {cxxstring_abi=cxx11, libc=glibc}` (`x86_64-linux-gnu-cxx11`)
 * `Windows x86_64` (`x86_64-w64-mingw32`)
 
 ## Dependencies
