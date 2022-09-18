@@ -1,6 +1,6 @@
 name = "LicenseSpring_jll"
 uuid = "ea2c2f5b-d23d-53da-ad7e-0e62c0a9a2e9"
-version = "7.16.0+0"
+version = "7.16.0+1"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"

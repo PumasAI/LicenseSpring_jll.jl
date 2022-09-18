@@ -4,24 +4,24 @@ git-tree-sha1 = "52f91d3574e2442cbbdc99b369975faf6e4fd943"
 os = "macos"
 
     [[LicenseSpring.download]]
-    sha256 = "428b97ba3477bea2e5b3e65be206d948545a3baab773e8f7a38ecdf5cc91b68a"
-    url = "https://github.com/PumasAI/LicenseSpring_jll.jl/releases/download/LicenseSpring-v7.16.0+0/LicenseSpring.v7.16.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "4fdf6835db8421ed2060160e10554b22e7c09049e97166cc10c86e5342e5e88b"
+    url = "https://github.com/PumasAI/LicenseSpring_jll.jl/releases/download/LicenseSpring-v7.16.0+1/LicenseSpring.v7.16.0+1.aarch64-apple-darwin.tar.gz"
 [[LicenseSpring]]
 arch = "i686"
 git-tree-sha1 = "49376490f2ee72acce626ab679bd5858377e7960"
 os = "windows"
 
     [[LicenseSpring.download]]
-    sha256 = "874fd14650e597c10a10d2bf19e5e027f851ab40e6100204c846382a44078ccb"
-    url = "https://github.com/PumasAI/LicenseSpring_jll.jl/releases/download/LicenseSpring-v7.16.0+0/LicenseSpring.v7.16.0.i686-w64-mingw32.tar.gz"
+    sha256 = "085801f4ed95c777361ed3e9307ab77601f55bcac0b4dd55be6824576fbcce5d"
+    url = "https://github.com/PumasAI/LicenseSpring_jll.jl/releases/download/LicenseSpring-v7.16.0+1/LicenseSpring.v7.16.0+1.i686-w64-mingw32.tar.gz"
 [[LicenseSpring]]
 arch = "x86_64"
 git-tree-sha1 = "72d03b372a8a475ae27cead6ae25597e47108ea7"
 os = "macos"
 
     [[LicenseSpring.download]]
-    sha256 = "8acf99db79008d40284f8fe6466fd1745a1d77414571d95e76174e5f242e8088"
-    url = "https://github.com/PumasAI/LicenseSpring_jll.jl/releases/download/LicenseSpring-v7.16.0+0/LicenseSpring.v7.16.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "068d768f1a7a886630f626c5a9d2483e742e0f0342255487e23bfdc6142d2fb0"
+    url = "https://github.com/PumasAI/LicenseSpring_jll.jl/releases/download/LicenseSpring-v7.16.0+1/LicenseSpring.v7.16.0+1.x86_64-apple-darwin.tar.gz"
 [[LicenseSpring]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -30,13 +30,13 @@ libc = "glibc"
 os = "linux"
 
     [[LicenseSpring.download]]
-    sha256 = "266959cb76c9059484e97db5d76945273cd5b8d04576ad07ae2f4f116c3458ce"
-    url = "https://github.com/PumasAI/LicenseSpring_jll.jl/releases/download/LicenseSpring-v7.16.0+0/LicenseSpring.v7.16.0.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "3006ee167999d83c9798db9b5eabad815869555e8e370fdd24af63731017a695"
+    url = "https://github.com/PumasAI/LicenseSpring_jll.jl/releases/download/LicenseSpring-v7.16.0+1/LicenseSpring.v7.16.0+1.x86_64-linux-gnu-cxx11.tar.gz"
 [[LicenseSpring]]
 arch = "x86_64"
 git-tree-sha1 = "3a014f35d9a73bfead3390e8258d81e5208efd3f"
 os = "windows"
 
     [[LicenseSpring.download]]
-    sha256 = "5f927211078bb56a0c283b8e04782195c9853f04a7d77c036494095511b58e09"
-    url = "https://github.com/PumasAI/LicenseSpring_jll.jl/releases/download/LicenseSpring-v7.16.0+0/LicenseSpring.v7.16.0.x86_64-w64-mingw32.tar.gz"
+    sha256 = "24b73268dd6d0c54c5e8c79a5a4169e912c33c1553926f0a4daf0c1aa264fe68"
+    url = "https://github.com/PumasAI/LicenseSpring_jll.jl/releases/download/LicenseSpring-v7.16.0+1/LicenseSpring.v7.16.0+1.x86_64-w64-mingw32.tar.gz"
