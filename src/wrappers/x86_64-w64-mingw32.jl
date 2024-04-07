@@ -4,12 +4,12 @@ export libLicenseSpring
 using LibCURL_jll
 using OpenSSL_jll
 JLLWrappers.@generate_wrapper_header("LicenseSpring")
-JLLWrappers.@declare_library_product(libLicenseSpring, "LicenseSpring.dll")
+JLLWrappers.@declare_library_product(libLicenseSpring, "libLicenseSpring.dll")
 function __init__()
     JLLWrappers.@generate_init_header(LibCURL_jll, OpenSSL_jll)
     JLLWrappers.@init_library_product(
         libLicenseSpring,
-        "bin\\LicenseSpring.dll",
+        "bin\\libLicenseSpring.dll",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
